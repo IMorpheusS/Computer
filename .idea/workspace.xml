@@ -5,24 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c230e0ef-e7f9-40f4-ab48-26fc09df2221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Komputer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Headphones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drive/Drive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drive/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drive/HDDDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drive/SSDDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usbdevice/MemoryStick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usbdevice/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usbdevice/USBDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Headphones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Headphones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drive/Drive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drive/Drive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drive/HDDDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drive/HDDDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drive/SSDDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drive/SSDDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usbdevice/MemoryStick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usbdevice/MemoryStick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usbdevice/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usbdevice/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usbdevice/USBDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usbdevice/USBDevice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +40,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
